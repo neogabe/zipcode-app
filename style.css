@@ -1,0 +1,21 @@
+#app {
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    margin: 100px auto;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+input {
+    margin-top: 50%;
+}
+
+button {
+    margin-top: 10px;
+}
